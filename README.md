@@ -3,7 +3,7 @@
 
 **`Desenvolvedor em Aprendizagem`**
 
-Me chamo Alan Santana, tenho 18 anos e sou natural da Bahia. Concluí o ensino médio na ETEC de Jandira - São Paulo, com o curso técnico em **Recursos Humanos**. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas no Centro universitario das americas - (UniAmerica)**. Sou apaixonado por Tecnologia e jogos atualmente estou aprendendo linguagens variadas (De preferencia da Back-End) porém não sou um desenvolvedor Full-Stack de nenhuma linguagem, Atualmente maior conhecimento em Python, Html, CSS, JavaScript, Java, SQL. Tenho interesse em aprender Hacking, Front-end e CyberSegurança.
+Me chamo **Alan Santana**, tenho 18 anos e sou natural da Bahia. Concluí o ensino médio na ETEC de Jandira - São Paulo, com o curso técnico em **Recursos Humanos**. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas no Centro universitario das americas - (UniAmerica)**. Sou apaixonado por Tecnologia e jogos atualmente estou aprendendo linguagens variadas (De preferencia da Back-End) porém não sou um desenvolvedor Full-Stack de nenhuma linguagem, Atualmente maior conhecimento em Python, Html, CSS, JavaScript, Java, SQL. Tenho interesse em aprender Hacking, Front-end e CyberSegurança.
 
 <p align="left">
     <a href="https://github.com/alansantana-source?tab=repositories&sort=stargazers">
