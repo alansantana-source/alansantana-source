@@ -179,10 +179,11 @@ Me chamo Alan Santana, tenho 18 anos e sou natural da Bahia. Concluí o ensino m
   
   
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ricardolimaa29/ricardolimaa29/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ricardolimaa29/ricardolimaa29/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ricardolimaa29/ricardolimaa29/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alansantana-source/alansantana-source/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alansantana-source/alansantana-source/output/github-snake-light.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/alansantana-source/alansantana-source/output/github-snake.svg">
 </picture>
+
 
 <br/>
 <br/>
