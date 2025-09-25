@@ -175,10 +175,8 @@ Me chamo Alan Santana, tenho 18 anos e sou natural da Bahia. Concluí o ensino m
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=alansantana-source&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+  <p/>
 
-<br/>
-<br/>
 
 ### 📊 Contatos/Redes Sociais
 
