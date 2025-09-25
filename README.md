@@ -3,7 +3,7 @@
 
 **`Desenvolvedor em Aprendizagem`**
 
-Me chamo **Alan Santana**, tenho 18 anos e sou natural da Bahia. Concluí o ensino médio na ETEC de Jandira - São Paulo, com o curso técnico em **Recursos Humanos**. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas no Centro universitario das americas - (UniAmerica)**. Sou apaixonado por Tecnologia e jogos atualmente estou aprendendo linguagens variadas (De preferencia da Back-End) porém não sou um desenvolvedor Full-Stack de nenhuma linguagem, Atualmente maior conhecimento em Python, Html, CSS, JavaScript, Java, SQL. Tenho interesse em aprender Hacking, Front-end e CyberSegurança.
+Me chamo Alan Santana, tenho 18 anos e sou natural da Bahia. Concluí o ensino médio na ETEC de Jandira - São Paulo, com o curso técnico em **Recursos Humanos**. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas no Centro universitario das americas - (UniAmerica)**. Sou apaixonado por Tecnologia e jogos atualmente estou aprendendo linguagens variadas (De preferencia da Back-End) porém não sou um desenvolvedor Full-Stack de nenhuma linguagem, Atualmente maior conhecimento em Python, Html, CSS, JavaScript, Java, SQL. Tenho interesse em aprender Hacking, Front-end e CyberSegurança.
 
 <p align="left">
     <a href="https://github.com/alansantana-source?tab=repositories&sort=stargazers">
@@ -176,5 +176,21 @@ Me chamo **Alan Santana**, tenho 18 anos e sou natural da Bahia. Concluí o ensi
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=alansantana-source&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
+  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ricardolimaa29/ricardolimaa29/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ricardolimaa29/ricardolimaa29/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ricardolimaa29/ricardolimaa29/output/pacman-contribution-graph-dark.svg">
+</picture>
+
+<br/>
+<br/>
+
+### 📊 Contatos/Redes Sociais
+
+<div align="center"> 
+ <a href="https://discord.gg/mqq9Te7w" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:alansantana5455@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
 
 </p>
