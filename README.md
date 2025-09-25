@@ -161,7 +161,6 @@ Me chamo Alan Santana, tenho 18 anos e sou natural da Bahia. Concluí o ensino m
 ### 📊 Estatísticas
 
 <div>
-<p>
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -176,13 +175,24 @@ Me chamo Alan Santana, tenho 18 anos e sou natural da Bahia. Concluí o ensino m
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=alansantana-source&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-</div>
+  </div>
+  
+  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ricardolimaa29/ricardolimaa29/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ricardolimaa29/ricardolimaa29/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ricardolimaa29/ricardolimaa29/output/pacman-contribution-graph-dark.svg">
+</picture>
+
+<br/>
+<br/>
 
 ### 📊 Contatos/Redes Sociais
 
-<div align="center">  
+<div align="center"> 
+ <a href="https://discord.gg/mqq9Te7w" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:alansantana5455@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+
+
 
 </p>
-
