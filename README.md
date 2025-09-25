@@ -160,7 +160,7 @@ Me chamo Alan Santana, tenho 18 anos e sou natural da Bahia. Concluí o ensino m
 
 ### 📊 Estatísticas
 
-
+<div>
 <p>
   <img 
     align="left" 
@@ -176,14 +176,13 @@ Me chamo Alan Santana, tenho 18 anos e sou natural da Bahia. Concluí o ensino m
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=alansantana-source&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
+</div>
 
 ### 📊 Contatos/Redes Sociais
 
-<div align="center"> 
- <a href="https://discord.gg/mqq9Te7w" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+<div align="center">  
   <a href = "mailto:alansantana5455@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
+</div>
 
 </p>
 
