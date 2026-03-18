@@ -3,7 +3,7 @@
 
 **`Desenvolvedor em Aprendizagem`**
 
-Me chamo Alan Santana, tenho 18 anos e sou natural da Bahia. Concluí o ensino médio na ETEC de Jandira - São Paulo, com o curso técnico em **Recursos Humanos**. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas no Centro universitario das americas - (UniAmerica)**. Sou apaixonado por Tecnologia e jogos atualmente estou aprendendo linguagens variadas (De preferencia da Back-End) porém não sou um desenvolvedor Full-Stack de nenhuma linguagem, Atualmente maior conhecimento em Python, Html, CSS, JavaScript, Java, SQL. Tenho interesse em aprender Hacking, Front-end e CyberSegurança.
+Profissional de TI com 18 anos, em formação em Análise e Desenvolvimento de Sistemas, com perfil híbrido entre Dados e Desenvolvimento. Experiência prática com Python (Pandas, NumPy), SQL, Power BI, Excel avançado, Java, JavaScript, APIs REST e MongoDB. Certificação AWS Cloud Practitioner (CLF-C02) e projetos no GitHub. Atuando na CSU Digital com análise de indicadores de performance (KPIs) e dados operacionais em ambiente corporativo. Conhecimento em infraestrutura de redes (TCP/IP, DNS, DHCP, Modelo OSI). Busco estágio em TI para aplicar minha visão analítica e habilidades de desenvolvimento na resolução de problemas reais e geração de valor para a equipe.
 
 <p align="left">
     <a href="https://github.com/alansantana-source?tab=repositories&sort=stargazers">
